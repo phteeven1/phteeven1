@@ -1,16 +1,12 @@
-<h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">Junior Software Developer | Application Development | Cybersecurity & Embedded Systems | 42 Berlin Student</h3>
+# 💫 About Me:
+I'm a Junior Software Developer in training at [42 Berlin](https://www.42berlin.de) with a strong interest in application development, cybersecurity, and embedded systems. I enjoy building projects that combine software and hardware, and I love diving into the details of how systems work.<br><br>🔭 Currently, I'm working on:<br>- PlantGuard: An AI-powered application to help monitor and protect plants.<br>- WebServ: My school project, implementing an HTTP server in C++ from scratch.<br><br>🌱 I'm continuously learning:<br>- Cybersecurity and penetration testing techniques<br>- Embedded systems and hardware-software integration<br>- Advanced C++ and application architecture
 
-- 🔭 I’m currently working on [PlantGuard | A frostwarning app for my outdoor plants](https://github.com/phteeven1/PlantGuard)
 
-- 🌱 I’m currently learning **Soldering & Electronics**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=phteeven1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=phteeven1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=phteeven1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 4️⃣2️⃣ Current 42 project [webserv](https://github.com/piapaetow1/Webserv)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-https://img.shields.io/github/languages/top/phteeven1/
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
