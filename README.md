@@ -13,4 +13,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-https://img.shields.io/github/languages/top/:phteeven1/
+https://img.shields.io/github/languages/top/phteeven1/
