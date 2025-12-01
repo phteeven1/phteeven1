@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm a Junior Software Developer in training at [42 Berlin](https://www.42berlin.de) with a strong interest in application development, cybersecurity, and embedded systems. I enjoy building projects that combine software and hardware, and I love diving into the details of how systems work.<br><br>🔭 Currently, I'm working on:<br>- PlantGuard: An AI-powered application to help monitor and protect plants.<br>- WebServ: My school project, implementing an HTTP server in C++ from scratch.<br><br>🌱 I'm continuously learning:<br>- Cybersecurity and penetration testing techniques<br>- Embedded systems and hardware-software integration<br>- Advanced C++ and application architecture
 
 
